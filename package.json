@@ -1,0 +1,16 @@
+{
+  "name": "ci.whatsbroadcast.com",
+  "version": "0.0.1",
+  "description": "Continuous integration server for phoenix.whatsbroadcast.com.",
+  "main": "index.js",
+  "repository": "www.myrepo.com",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jonas Grunau",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
